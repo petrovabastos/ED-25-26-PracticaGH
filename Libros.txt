@@ -3,4 +3,10 @@
 1. 1984 - George Orwell
 2. La vuelta al mundo en 80 días - Jules Verne
 3. El capitán Alatriste - Arturo Pérez-Reverte
+
+(Petar Petrov)
+4. Lib4
+5. Lib5
+6. Lib6
+
 -------------------------------------------------
